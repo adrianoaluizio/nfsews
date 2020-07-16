@@ -1,0 +1,18 @@
+{
+    "name": "nfsews/nf-webservice",
+    "description": "Soap conection from webservice NFS-e",
+    "keywords": ["laravel","nfe", "nfse", "webservice"],
+    "authors": [
+        {
+            "name": "Adriano Aluizio",
+            "email": "dri.asterix@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "nfsw\\": "lib/"
+        }
+    }
+}
